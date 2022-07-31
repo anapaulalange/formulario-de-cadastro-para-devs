@@ -1,7 +1,7 @@
 # Formulário de Cadastro
-Formulário para cadastro de desenvolvedores utilizando HTML e CSS
+Objetivo: Formulário para cadastro de desenvolvedores utilizando HTML e CSS
 
-Funcionalidades:
+- Funcionalidades:
 
 Cadastro para inclusão de informações de identificação e profissionais dos desenvolvedores/desenvolvedoras (camada em que desenvolve, tecnologias utilizadas e experiência profissional) 
 
